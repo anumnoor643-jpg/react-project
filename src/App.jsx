@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-
+import Footer from "./components/Footer";
 import Sidebar from "./components/Sidebar";
 import Calendar from "./components/Calendar";
 import TaskPanel from "./components/TaskPanel";
@@ -171,7 +171,7 @@ function App() {
         />
 
       </div>
-
+<Footer darkMode={darkMode} />
     </div>
 
   );
