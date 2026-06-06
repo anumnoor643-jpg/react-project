@@ -135,7 +135,14 @@ function App() {
       </button>
 
       {/* MAIN LAYOUT */}
-      <div className="grid grid-cols-[260px_420px_1fr]">
+     <div
+  className="
+    flex
+    flex-col
+    md:grid
+    md:grid-cols-[260px_420px_1fr]
+  "
+>
 
         <Sidebar
           tasks={tasks}
