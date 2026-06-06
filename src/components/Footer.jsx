@@ -31,7 +31,7 @@ function Footer({ darkMode }) {
         </p>
 
         <p className="mt-2 text-xs md:text-sm opacity-90">
-          Designed with 💜 by{" "}
+          Designed by{" "}
           <a
             href="https://www.bytexsolution.com"
             target="_blank"
