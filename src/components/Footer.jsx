@@ -27,7 +27,7 @@ function Footer({ darkMode }) {
     >
       <div className="py-5 px-6 text-center">
         <p className="text-sm md:text-base font-medium">
-          © 2026 Tiger Group of Companies. All Rights Reserved.
+          © 2026 Anum Noor. All Rights Reserved.
         </p>
 
         <p className="mt-2 text-xs md:text-sm opacity-90">
